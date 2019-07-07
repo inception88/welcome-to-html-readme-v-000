@@ -29,8 +29,8 @@ HTML documents.
 ## Repetition &amp; Getting Stuck
 
 In the lessons ahead, many of the ideas are deliberately repeated. You might not 
-get "attributes" the first time you see them, but, after some hands-on experience,
-they'll makes sense the second time you see them.
+get "attributes" the first time you see them, but after some hands-on experience,
+they'll make sense the second time you see them.
 
 ## Beyond
 
